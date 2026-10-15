@@ -50,6 +50,7 @@ where they were.
 - [Troubleshooting](#troubleshooting)
 - [Building from source](#building-from-source)
 - [Limitations](#limitations)
+- [License](#license)
 
 ## Requirements
 
@@ -549,3 +550,7 @@ tools/                  icon generator
   remember them per display.
 - One layout switch runs at a time. Concurrent requests get HTTP 429.
 - The HTTP API is plain HTTP; see [Security](#security).
+
+## License
+
+[MIT](LICENSE)
